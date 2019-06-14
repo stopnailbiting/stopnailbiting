@@ -68,6 +68,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
-=======
-theme: jekyll-theme-cayman
->>>>>>> 62ba751008c252cdc32b7fc957d8d605fc3a2d89
